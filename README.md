@@ -1,69 +1,92 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Christine Njeri</h1> 
-<h3 align="center">just Android &UI/UX</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awstine&label=Profile%20views&color=0e75b6&style=flat" alt="Austine" /> </p>
-
-
-<!--
-**awstine/awstine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
- <!-- - 👯 I’m looking to collaborate on ...  -  I’m currently working on ... - 😄 Pronouns: ...- ⚡ Fun fact: ... <!-- - 🤔 I’m looking for help with -->
-
-<!-- - 🔭 I’m currently learning  || Jetpack Compose || UI/UX-->
-
-<!-- - 💬 Ask me about Kotlin-->
-<!-- - 📫 How to reach me: dflynjeri@gmail.com-->
-
-  <a href="https://wakatime.com/@480fe0b5-93e2-4874-aac6-8887aa6a3322"><img src="https://wakatime.com/badge/user/480fe0b5-93e2-4874-aac6-8887aa6a3322.svg" alt="Total time coded since May 30 2023" /></a>
-
-
-## 🛠 Languages and Tools
-<br>
+<h1 align="center">Hey there 👋, I’m <b>dflynjeri</b></h1>
+<h3 align="center">🛠 Backend Engineer • UI/UX Enthusiast • Cybersecurity & AI Explorer</h3>
 
 <p align="center">
-<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
- <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://img.shields.io/badge/android%20Studio-%23999120.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio "></a>
-<!-- <a href="" title="SQL"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL"></a> -->
- <a href="" title="JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"></a>
-<a href="" title="Kotlin"><img src="https://img.shields.io/badge/kotlin-BE93D4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-<a href="" title="Postman"><img src="https://img.shields.io/badge/Posrman-ED8B00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+  <img src="https://komarev.com/ghpvc/?username=dflynjeri&label=Profile%20views&color=6a042e&style=flat" alt="Profile views"/>
 </p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awstine&hide_progress=true)
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Belair)](https://github.com/awstine/github-readme-stats)
+### 🎨 Aesthetic & Brand
+- **Night-sky palette**: deep navy background, soft burgundy highlights, gentle earthy tones.
+- **Dragonfly motif**: symbols of versatility, lightness, resilience.
+- **Mood**: warm, confident, capable—ready for both client and recruiter eyes, no question needed 😉
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awstine&show_icons=true&locale=en" alt="mwichabe" /></p>-->
+---
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awstine&show_icons=true&locale=en&layout=compact" alt="awstine" /></p>-->
+### 🛠 What I Do
+| Area | Details |
+|------|---------|
+| **Backend** | RESTful APIs, databases, cloud services—built with care and scale in mind |
+| **UI/UX Design** | Wireframes → prototypes → polished UIs with user-first thinking |
+| **Cybersecurity** | Private practice: pen-testing, secure code, encryption, threat modeling |
+| **AI Exploration** | Private R&D into ML pipelines, NLP, and intelligent automation |
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awstine&" alt="awstine" /></p>-->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://www.linkedin.com/in/christine-mwangi-838a59278/]/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christine-mwangi-838a59278/" height="30" width="40" /></a>
+### 📈 Coding Stats
+<p align="center">
+  <a href="https://wakatime.com/@your-wakatime-id"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime badge"/></a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dflynjeri&hide_progress=true&theme=radical" alt="Top langs"/>
 </p>
 
+---
 
+### ⚙️ Tech Stack
+<p align="center">
+  <!-- Use consistent badge style -->
+  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+</p>
 
+---
 
+### 🌐 Where to Find Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dflynjeri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanaelmbale&" alt="nathanaelmbale" /></p>
+---
 
-<!--
-**dflynjeri/dflynjeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I’m Working On
+- **Secure API Gateway** – combining backend, auth, and encryption to boost client confidence
+- **UI/UX Redesign** – giving backend dashboards a polished, intuitive user experience
+- **AI Side-Project** – private ML tool/plugin for threat detection
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Powered by the precision of backend logic with the flair of design, and guarded by cybersecurity—dflynjeri is the dragonfly navigating the tech night sky.” 🦋
+
+---
+
+### 🤝 Let’s Collaborate
+Open to client work, mentorship, or team opportunities. Feel free to drop a message—I’ve got you covered.
+
+---
+
+*🔥 Tip*: Set a dark `README.md` theme using `<style>` tags or CSS frameworks like [Aurora readme style]. Custom CSS (injected GitHub-readme-stats query) can help match the burgundy + night aesthetic.
+
+---
+
+### ✅ Next Steps for You
+1. **Update the README**:
+   - Replace placeholders (`wakatime ID`, `email`, `LinkedIn`) with your actual details.
+   - Add a dragonfly icon or SVG at the top for branding.
+2. **Embed Aesthetic CSS**:
+   ```html
+   <style>
+     body {
+       background-color: #0a0f26;
+       color: #d0cfcf;
+     }
+     a {
+       color: #8b0000;
+     }
+   </style>
+
