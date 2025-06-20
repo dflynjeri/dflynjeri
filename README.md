@@ -1,92 +1,148 @@
-<h1 align="center">Hey there 👋, I’m <b>dflynjeri</b></h1>
-<h3 align="center">🛠 Backend Engineer • UI/UX Enthusiast • Cybersecurity & AI Explorer</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>dflynjeri</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Unica+One&family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <!-- You can replace with your custom SVG later -->
+      <img src="dragonfly.svg" alt="dragonfly logo" />
+    </div>
+    <h1 class="headline">Hey there 👋, I’m <span>dflynjeri</span></h1>
+    <p class="subhead">🛠 Backend Engineer • UI/UX Enthusiast • Cybersecurity & AI Explorer</p>
+    <div class="stats">
+      <img src="https://komarev.com/ghpvc/?username=dflynjeri&label=Profile%20views&color=6a042e&style=flat" alt="profile views" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dflynjeri&hide_progress=true&theme=dark&bg_color=0d1117" alt="top langs" class="langs"/>
+    </div>
+    <div class="buttons">
+      <a href="https://github.com/dflynjeri" class="btn" target="_blank">GitHub Profile</a>
+      <a href="mailto:youremail@example.com" class="btn secondary">Email Me</a>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+/* Fonts & Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #0a0f26;
+  color: #dcdce1;
+  font-family: 'Montserrat', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  text-align: center;
+  max-width: 640px;
+  padding: 20px;
+  position: relative;
+  z-index: 2;
+}
+.logo img {
+  width: 100px;
+  animation: float 4s ease-in-out infinite;
+}
+.headline {
+  font-family: 'Unica One', cursive;
+  font-size: 2.8rem;
+  margin-top: 15px;
+}
+.headline span {
+  color: #8b0000;
+}
+.subhead {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+.stats {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.langs {
+  height: 120px;
+}
+.buttons {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.btn {
+  background: #6a042e;
+  color: #f7f7f7;
+  padding: 12px 24px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-decoration: none;
+  position: relative;
+  overflow: hidden;
+}
+.btn::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(255,255,255,0.15);
+  transition: width 0.4s ease-in-out;
+}
+.btn:hover::after {
+  width: 100%;
+}
+.secondary {
+  background: transparent;
+  border: 2px solid #6a042e;
+}
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dflynjeri&label=Profile%20views&color=6a042e&style=flat" alt="Profile views"/>
-</p>
+/* Floating animation */
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-15px) rotate(-5deg); }
+}
 
----
-
-### 🎨 Aesthetic & Brand
-- **Night-sky palette**: deep navy background, soft burgundy highlights, gentle earthy tones.
-- **Dragonfly motif**: symbols of versatility, lightness, resilience.
-- **Mood**: warm, confident, capable—ready for both client and recruiter eyes, no question needed 😉
-
----
-
-### 🛠 What I Do
-| Area | Details |
-|------|---------|
-| **Backend** | RESTful APIs, databases, cloud services—built with care and scale in mind |
-| **UI/UX Design** | Wireframes → prototypes → polished UIs with user-first thinking |
-| **Cybersecurity** | Private practice: pen-testing, secure code, encryption, threat modeling |
-| **AI Exploration** | Private R&D into ML pipelines, NLP, and intelligent automation |
-
----
-
-### 📈 Coding Stats
-<p align="center">
-  <a href="https://wakatime.com/@your-wakatime-id"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime badge"/></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dflynjeri&hide_progress=true&theme=radical" alt="Top langs"/>
-</p>
-
----
-
-### ⚙️ Tech Stack
-<p align="center">
-  <!-- Use consistent badge style -->
-  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-  <a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-</p>
-
----
-
-### 🌐 Where to Find Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/dflynjeri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 🚀 What I’m Working On
-- **Secure API Gateway** – combining backend, auth, and encryption to boost client confidence
-- **UI/UX Redesign** – giving backend dashboards a polished, intuitive user experience
-- **AI Side-Project** – private ML tool/plugin for threat detection
-
----
-
-> “Powered by the precision of backend logic with the flair of design, and guarded by cybersecurity—dflynjeri is the dragonfly navigating the tech night sky.” 🦋
-
----
-
-### 🤝 Let’s Collaborate
-Open to client work, mentorship, or team opportunities. Feel free to drop a message—I’ve got you covered.
-
----
-
-*🔥 Tip*: Set a dark `README.md` theme using `<style>` tags or CSS frameworks like [Aurora readme style]. Custom CSS (injected GitHub-readme-stats query) can help match the burgundy + night aesthetic.
-
----
-
-### ✅ Next Steps for You
-1. **Update the README**:
-   - Replace placeholders (`wakatime ID`, `email`, `LinkedIn`) with your actual details.
-   - Add a dragonfly icon or SVG at the top for branding.
-2. **Embed Aesthetic CSS**:
-   ```html
-   <style>
-     body {
-       background-color: #0a0f26;
-       color: #d0cfcf;
-     }
-     a {
-       color: #8b0000;
-     }
-   </style>
-
+/* Night-sky particles */
+body::before {
+  content: '';
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  background: transparent;
+  top: -50%;
+  left: -50%;
+  z-index: 1;
+  background-image: radial-gradient(#ffffff22 1px, transparent 1px);
+  background-size: 30px 30px;
+  animation: starspin 200s linear infinite;
+}
+@keyframes starspin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+// Simple headline typing effect
+const headline = document.querySelector('.headline');
+const fullText = headline.textContent;
+headline.textContent = '';
+let charIndex = 0;
+function typeChar() {
+  headline.textContent = fullText.slice(0, ++charIndex);
+  if (charIndex < fullText.length) {
+    setTimeout(typeChar, Math.random() * 100 + 50);
+  }
+}
+window.onload = () => typeChar();
